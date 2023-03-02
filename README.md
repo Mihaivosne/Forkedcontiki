@@ -1,4 +1,4 @@
-The Contiki Operating System
+The Contiki Operating System modified by MIHAI
 ============================
 
 [![Build Status](https://travis-ci.org/contiki-os/contiki.svg?branch=master)](https://travis-ci.org/contiki-os/contiki/branches)
